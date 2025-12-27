@@ -1,5 +1,9 @@
 {
-  "homepage": "https://developerfolio.js.org/",
+  "engines": {
+  "node": "16.x"
+}
+,
+  
   "name": "developerfolio",
   "version": "0.1.0",
   "private": true,
@@ -22,11 +26,12 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "start": "node fetch.js && react-scripts start",
-    "build": "node fetch.js && react-scripts build",
+    "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject",
     "deploy": "gh-pages -b master -d build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
+   
     "format": "prettier --write \"./**/*.{js,css,json,scss}\"",
     "check-format": "prettier -c \"./**/*.{js,css,json,scss}\""
   },
