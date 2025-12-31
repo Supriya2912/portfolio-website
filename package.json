@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "16.x"
+    "node": "24.x"
   },
   "name": "developerfolio",
   "version": "0.1.0",
