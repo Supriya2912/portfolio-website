@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/Supriya2912",
   linkedin: "https://www.linkedin.com/in/supriyabiradar/",
   gmail: "supriya2912biradar@gmail.com",
-   leetcode : "https://leetcode.com/u/supriya2912biradar/",
+  leetcode: "https://leetcode.com/u/supriya2912biradar/",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
   // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
@@ -49,12 +49,13 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle:  "Software Developer with hands-on experience in Web Development, Data Science, and Machine Learning",
-   skills: [
+  subTitle:
+    "Software Developer with hands-on experience in Web Development, Data Science, and Machine Learning",
+  skills: [
     "⚡ Build interactive web applications using HTML, CSS, JavaScript, and React",
     "⚡ Develop data dashboards and visualizations using Python & Plotly",
     "⚡ Implement ML models for real-world use cases like drowsiness detection",
-    "⚡ Experience with Git, REST APIs, and cloud deployment",
+    "⚡ Experience with Git, REST APIs, and cloud deployment"
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -109,23 +110,23 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
-   
-{
-  skillName: "java",
-  fontAwesomeClassname: "fab fa-java"
-},
-{
-  skillName: "typescript",
-  fontAwesomeClassname: "fab fa-js"  // TypeScript uses JS icon in FontAwesome
-},
-{
-  skillName: "machine learning",
-  fontAwesomeClassname: "fas fa-robot" // Using robot icon as a common representation
-},
-{
-  skillName: "playwright",
-  fontAwesomeClassname: "fas fa-theater-masks" // No official icon, using theater masks for automation/testing
-}
+
+    {
+      skillName: "java",
+      fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "typescript",
+      fontAwesomeClassname: "fab fa-js" // TypeScript uses JS icon in FontAwesome
+    },
+    {
+      skillName: "machine learning",
+      fontAwesomeClassname: "fas fa-robot" // Using robot icon as a common representation
+    },
+    {
+      skillName: "playwright",
+      fontAwesomeClassname: "fas fa-theater-masks" // No official icon, using theater masks for automation/testing
+    }
 
     // {
     //   skillName: "docker",
@@ -146,26 +147,24 @@ const educationInfo = {
       subHeader: "Bachelor of Technology in Computer Science",
       duration: "June 2020 - June 2024",
       desc: "Mentored juniors for resume building and guided them in learning Data Structures and Algorithms (DSA).",
-  descBullets: [
-    "Provided one-on-one mentorship sessions to juniors for resume preparation and career guidance.",
-    "Taught Data Structures and Algorithms concepts through workshops and coding sessions."
-  ]
+      descBullets: [
+        "Provided one-on-one mentorship sessions to juniors for resume preparation and career guidance.",
+        "Taught Data Structures and Algorithms concepts through workshops and coding sessions."
+      ]
     },
     {
       schoolName: "Maharashtra Udayagiri Mahavidyalaya, Udgir",
       logo: require("./assets/images/highschool.png"),
       subHeader: "Higher Secondary Education (12th) in Science",
       duration: "March 2019 - March 2020",
-      desc: "Achieved 74.62% in Higher Secondary Certificate (HSC) examination.",
-      
+      desc: "Achieved 74.62% in Higher Secondary Certificate (HSC) examination."
     },
-     {
+    {
       schoolName: "Shyamarya Kanya Vidhyalay, Udgir",
       logo: require("./assets/images/school.png"),
       subHeader: "Secondary Education (10th)",
-  duration: "March 2017 - March 2018",
-  desc: "Achieved 91% in Secondary School Certificate (SSC) examination."
-      
+      duration: "March 2017 - March 2018",
+      desc: "Achieved 91% in Secondary School Certificate (SSC) examination."
     }
   ]
 };
@@ -180,22 +179,21 @@ const techStack = {
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-  Stack: "Data Structures & Algorithms",
-  progressPercentage: "90%"
-},
-{
-  Stack: "Machine Learning",
-  progressPercentage: "70%"
-},
-{
-  Stack: "C++",
-  progressPercentage: "80%"
-},
-{
-  Stack: "Python",
-  progressPercentage: "80%"
-},
-   
+      Stack: "Data Structures & Algorithms",
+      progressPercentage: "90%"
+    },
+    {
+      Stack: "Machine Learning",
+      progressPercentage: "70%"
+    },
+    {
+      Stack: "C++",
+      progressPercentage: "80%"
+    },
+    {
+      Stack: "Python",
+      progressPercentage: "80%"
+    }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -210,37 +208,39 @@ const workExperiences = {
       company: "Tata Consultancy Services",
       companylogo: require("./assets/images/tcs.png"),
       date: "April 2025 – Present",
- desc: "Developed scalable enterprise applications and automation frameworks, contributing to microservices architecture and CI/CD pipelines.",
-  descBullets: [
-    "Built software components and automation frameworks using TypeScript, Java, and Python for 15+ microservices.",
-    "Implemented REST-based workflows and service validations ensuring functional correctness and data integrity.",
-    "Created reusable, object-oriented modules to improve maintainability and development efficiency.",
-    "Integrated applications with CI/CD pipelines (Jenkins, Git, Maven), reducing release cycles by 25%.",
-    "Collaborated with Agile teams to support releases, debugging, and production readiness."
-  ]
+      desc: "Developed scalable enterprise applications and automation frameworks, contributing to microservices architecture and CI/CD pipelines.",
+      descBullets: [
+        "Built software components and automation frameworks using TypeScript, Java, and Python for 15+ microservices.",
+        "Implemented REST-based workflows and service validations ensuring functional correctness and data integrity.",
+        "Created reusable, object-oriented modules to improve maintainability and development efficiency.",
+        "Integrated applications with CI/CD pipelines (Jenkins, Git, Maven), reducing release cycles by 25%.",
+        "Collaborated with Agile teams to support releases, debugging, and production readiness."
+      ]
     },
     {
       role: "Data Science Trainee",
-  company: "SEED Infotech Institute, Pune, India",
+      company: "SEED Infotech Institute, Pune, India",
       companylogo: require("./assets/images/seed.png"),
       date: "June 2024 – Dec 2024",
-  desc: "Completed intensive Data Science training and led applied ML projects, including predictive modeling and recommendation systems.",
-  descBullets: [
-    "Developed a Movie Recommendation System using Python, Pandas, and Scikit-learn to process and model large user-movie rating datasets.",
-    "Implemented and evaluated multiple ML models to optimize recommendation accuracy and predictive analysis.",
-    "Performed extensive Exploratory Data Analysis (EDA) and feature engineering to ensure robust, data-driven outputs."
-  ] },
+      desc: "Completed intensive Data Science training and led applied ML projects, including predictive modeling and recommendation systems.",
+      descBullets: [
+        "Developed a Movie Recommendation System using Python, Pandas, and Scikit-learn to process and model large user-movie rating datasets.",
+        "Implemented and evaluated multiple ML models to optimize recommendation accuracy and predictive analysis.",
+        "Performed extensive Exploratory Data Analysis (EDA) and feature engineering to ensure robust, data-driven outputs."
+      ]
+    },
     {
-     role: "Software Engineer Intern",
-  company: "India Meteorological Department, Pune, India",
+      role: "Software Engineer Intern",
+      company: "India Meteorological Department, Pune, India",
       companylogo: require("./assets/images/imd.png"),
       date: "June 2023 – Dec 2023",
-  desc: "Developed cloud-based data visualization dashboards and collaborated with government stakeholders for meteorological insights.",
-  descBullets: [
-    "Built a cloud-based interactive dashboard using Python and Dash Plotly, processing 5+ years of meteorological data for 28 states.",
-    "Led technical discussions with government executives to gather requirements and define project scope for actionable insights.",
-    "Deployed production-grade solutions on cloud with 99.9% uptime; reduced data retrieval time by 50% through optimized filtering algorithms."
-  ] }
+      desc: "Developed cloud-based data visualization dashboards and collaborated with government stakeholders for meteorological insights.",
+      descBullets: [
+        "Built a cloud-based interactive dashboard using Python and Dash Plotly, processing 5+ years of meteorological data for 28 states.",
+        "Led technical discussions with government executives to gather requirements and define project scope for actionable insights.",
+        "Deployed production-grade solutions on cloud with 99.9% uptime; reduced data retrieval time by 50% through optimized filtering algorithms."
+      ]
+    }
   ]
 };
 
@@ -295,36 +295,38 @@ const achievementSection = {
 
   achievementsCards: [
     {
-       title: "Google Cloud Certified Generative AI Leader",
-    subtitle: "Achieved Google Cloud certification for Generative AI expertise (Aug 2025).",
-     image: require("./assets/images/googlecloud.png"),
+      title: "Google Cloud Certified Generative AI Leader",
+      subtitle:
+        "Achieved Google Cloud certification for Generative AI expertise (Aug 2025).",
+      image: require("./assets/images/googlecloud.png"),
       imageAlt: "Google cloud Logo",
       footerLink: [
         {
           name: "Certification",
           url: "https://drive.google.com/file/d/1yiU8rFCPi9E6_-ljv208VchIrXFADakT/view?usp=drive_link"
-        },
-    
+        }
       ]
     },
     {
-     title: "Databricks Certified Generative AI Engineer Associate",
-    subtitle: "Certified in Generative AI engineering by Databricks (Nov 2025).",
-     image: require("./assets/images/databricks.png"),
+      title: "Databricks Certified Generative AI Engineer Associate",
+      subtitle:
+        "Certified in Generative AI engineering by Databricks (Nov 2025).",
+      image: require("./assets/images/databricks.png"),
       imageAlt: "Databricks  Logo",
       footerLink: [
         {
-           name: "Certification",
-        url: "https://credentials.databricks.com/daad09d6-c01b-46ef-be3e-86d764a3f992#acc.qrSgLvDG"
+          name: "Certification",
+          url: "https://credentials.databricks.com/daad09d6-c01b-46ef-be3e-86d764a3f992#acc.qrSgLvDG"
         }
       ]
     },
 
     {
-       title: "Databricks Certified Data Engineer Associate",
-    subtitle: "Certified in Data Engineering fundamentals by Databricks (Oct 2025).",
-    image: require("./assets/images/databricks.png"),
-    imageAlt: "Databricks Logo",
+      title: "Databricks Certified Data Engineer Associate",
+      subtitle:
+        "Certified in Data Engineering fundamentals by Databricks (Oct 2025).",
+      image: require("./assets/images/databricks.png"),
+      imageAlt: "Databricks Logo",
       footerLink: [
         {name: "Certification", url: ""},
         {
@@ -333,69 +335,71 @@ const achievementSection = {
         }
       ]
     },
-     {
-    title: "Microsoft Azure Developer Associate (AZ-204)",
-    subtitle: "Currently pursuing Microsoft Azure Developer Associate certification.",
-    image: require("./assets/images/azure.png"),
-    imageAlt: "Azure Logo",
-    footerLink: [
-      {
-        name: "Certification Info",
-        // url: "https://www.your-cert-link.com"
-      }
-    ]
-  },
-  {
-  title: "McKinsey.org Forward Program",
-  subtitle:
-    "Completed the McKinsey.org Forward Program by McKinsey & Company, focused on problem-solving, structured thinking, adaptability, and professional skills.",
-  image: require("./assets/images/mckinseyLogo.png"),
-  imageAlt: "McKinsey & Company Logo",
-  footerLink: [
     {
-      name: "Credential",
-      url: "https://www.credly.com/badges/17bebc09-9219-41b8-bdde-167e89fe7e06/public_url"
+      title: "Microsoft Azure Developer Associate (AZ-204)",
+      subtitle:
+        "Currently pursuing Microsoft Azure Developer Associate certification.",
+      image: require("./assets/images/azure.png"),
+      imageAlt: "Azure Logo",
+      footerLink: [
+        {
+          name: "Certification Info"
+          // url: "https://www.your-cert-link.com"
+        }
+      ]
+    },
+    {
+      title: "McKinsey.org Forward Program",
+      subtitle:
+        "Completed the McKinsey.org Forward Program by McKinsey & Company, focused on problem-solving, structured thinking, adaptability, and professional skills.",
+      image: require("./assets/images/mckinseyLogo.png"),
+      imageAlt: "McKinsey & Company Logo",
+      footerLink: [
+        {
+          name: "Credential",
+          url: "https://www.credly.com/badges/17bebc09-9219-41b8-bdde-167e89fe7e06/public_url"
+        }
+      ]
+    },
+    {
+      title: "2nd Place - National Hackathon",
+      subtitle:
+        "Secured 2nd rank among 500+ teams for an AI-powered road safety solution.",
+      image: require("./assets/images/national.png"),
+      imageAlt: "Hackathon Logo",
+      footerLink: [
+        // {
+        //   name: "Project Demo",
+        //   url: "https://github.com/yourusername/drivesmart-project"
+        // }
+      ]
+    },
+    {
+      title: "6th Place - Smart Pune Health Hackathon",
+      subtitle:
+        "Ranked 6th nationwide in the final round for an innovative health-tech solution.",
+      image: require("./assets/images/smartpune.png"),
+      imageAlt: "Hackathon Logo",
+      footerLink: [
+        {
+          name: "Project Details",
+          url: "https://github.com/Supriya2912/Aarogyam-ChatBot"
+        }
+      ]
+    },
+    {
+      title: "500+ LeetCode Problems Solved",
+      subtitle:
+        "Strengthened Data Structures & Algorithms proficiency by solving over 500 coding problems on LeetCode.",
+      image: require("./assets/images/leetcode.png"),
+      imageAlt: "LeetCode Logo",
+      footerLink: [
+        {
+          name: "LeetCode Profile",
+          url: "https://leetcode.com/u/supriya2912biradar/"
+        }
+      ]
     }
-  ]
-}
-,
-   {
-    title: "2nd Place - National Hackathon",
-    subtitle: "Secured 2nd rank among 500+ teams for an AI-powered road safety solution.",
-    image: require("./assets/images/national.png"),
-    imageAlt: "Hackathon Logo",
-    footerLink: [
-      // {
-      //   name: "Project Demo",
-      //   url: "https://github.com/yourusername/drivesmart-project"
-      // }
-    ]
-  },
-   {
-    title: "6th Place - Smart Pune Health Hackathon",
-    subtitle: "Ranked 6th nationwide in the final round for an innovative health-tech solution.",
-    image: require("./assets/images/smartpune.png"),
-    imageAlt: "Hackathon Logo",
-    footerLink: [
-      {
-        name: "Project Details",
-        url: "https://github.com/Supriya2912/Aarogyam-ChatBot"
-      }
-    ]
-  },
-   {
-    title: "500+ LeetCode Problems Solved",
-    subtitle: "Strengthened Data Structures & Algorithms proficiency by solving over 500 coding problems on LeetCode.",
-    image: require("./assets/images/leetcode.png"),
-    imageAlt: "LeetCode Logo",
-    footerLink: [
-      {
-        name: "LeetCode Profile",
-        url: "https://leetcode.com/u/supriya2912biradar/"
-      }
-    ]
-  }
-
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -441,7 +445,7 @@ const talkSection = {
     }
   ],
   display: false // Set false to hide this section, defaults to true
- // Set false to hide this section, defaults to true
+  // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -455,7 +459,7 @@ const podcastSection = {
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
   display: false // Set false to hide this section, defaults to true
- // Set false to hide this section, defaults to true
+  // Set false to hide this section, defaults to true
 };
 
 // Resume Section
@@ -463,15 +467,13 @@ const resumeSection = {
   title: "Resume",
   subtitle: "Feel free to download my resume",
 
-  
-
   // Please Provide with Your Podcast embeded Link
   display: true // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
- subtitle:
+  subtitle:
     "Actively seeking software engineering and data-focused roles. Open to full-time and collaboration opportunities.",
   number: "+91-8600409418",
   email_address: "supriya2912biradar@gmail.com"
