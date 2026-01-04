@@ -2,8 +2,8 @@
 
 A clean, modern **portfolio website** showcasing my work as a **Software Engineer / Full-Stack Developer**, with hands-on experience in building scalable web applications, data-driven dashboards, and user-focused interfaces.
 
-🔗 **Live Portfolio:** *([https://portfolio-website-bay-omega.vercel.app/])*
-📄 **Resume:** *((https://drive.google.com/file/d/1lY4OGeKSoeiTXRUS_3z8WhIsIKxrhPux/view?usp=sharing))*
+🔗 **Live Portfolio:** *https://portfolio-website-bay-omega.vercel.app/*
+📄 **Resume:** *https://drive.google.com/file/d/1lY4OGeKSoeiTXRUS_3z8WhIsIKxrhPux/view?usp=sharing*
 📍 **Location:** India | Open to Pune,Mumbai,Hyderabad and Bangalore-based & hybrid roles
 
 ---
