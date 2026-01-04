@@ -136,7 +136,7 @@ I am open to **Software Engineer / Full-Stack / Frontend opportunities / Machine
 
 * **GitHub:** [https://github.com/Supriya2912](https://github.com/Supriya2912)
 * **Email:** [supriya2912biradar@gmail.com](mailto:supriya2912biradar@gmail.com)
-* **LinkedIn:** *([Add LinkedIn URL](https://www.linkedin.com/in/supriyabiradar/))*
+* **LinkedIn:** *(https://www.linkedin.com/in/supriyabiradar/)*
 
 ---
 
