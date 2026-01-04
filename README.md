@@ -2,9 +2,9 @@
 
 A clean, modern **portfolio website** showcasing my work as a **Software Engineer / Full-Stack Developer**, with hands-on experience in building scalable web applications, data-driven dashboards, and user-focused interfaces.
 
-🔗 **Live Portfolio:** *(Add deployed link)*
-📄 **Resume:** *(Add resume link)*
-📍 **Location:** India | Open to Bangalore-based & hybrid roles
+🔗 **Live Portfolio:** *([Add deployed link](https://portfolio-website-bay-omega.vercel.app/))*
+📄 **Resume:** *([Add resume link](https://drive.google.com/file/d/1lY4OGeKSoeiTXRUS_3z8WhIsIKxrhPux/view?usp=sharing))*
+📍 **Location:** India | Open to Pune,Mumbai,Hyderabad and Bangalore-based & hybrid roles
 
 ---
 
@@ -12,7 +12,7 @@ A clean, modern **portfolio website** showcasing my work as a **Software Enginee
 
 Recruiters can quickly assess:
 
-* ✅ My **technical skill set** (Frontend + Backend)
+* ✅ My **technical skill set** (Frontend + Backend + Machine Learning + Generative AI)
 * ✅ **Real-world projects** with measurable impact
 * ✅ Clean code practices & GitHub workflow
 * ✅ Ability to learn, adapt, and ship features end-to-end
@@ -26,6 +26,8 @@ Recruiters can quickly assess:
 * React.js, JavaScript (ES6+)
 * HTML5, CSS3, SCSS
 * Responsive UI & component-based design
+* Machine Learning, Deep Learning
+* Generative AI
 
 **Backend & Data**
 
@@ -37,7 +39,7 @@ Recruiters can quickly assess:
 
 * Git & GitHub
 * VS Code
-* GitHub Pages / Netlify (Deployment)
+* GitHub Pages / Vercel, Render (Deployment)
 
 ---
 
@@ -126,7 +128,7 @@ portfolio-website/
 
 I am a **Software Engineer at Tata Consultancy Services (TCS)** and a **2024 Computer Science Engineering graduate**, with strong fundamentals in software development and a passion for building impactful products. I enjoy working across the stack, learning new technologies, and solving real-world problems through code.
 
-I am open to **Software Engineer / Full-Stack / Frontend opportunities** where I can contribute, learn, and grow while building scalable, high-impact products.
+I am open to **Software Engineer / Full-Stack / Frontend opportunities / Machine Learning, AI Engineer ** where I can contribute, learn, and grow while building scalable, high-impact products.
 
 ---
 
@@ -134,7 +136,7 @@ I am open to **Software Engineer / Full-Stack / Frontend opportunities** where I
 
 * **GitHub:** [https://github.com/Supriya2912](https://github.com/Supriya2912)
 * **Email:** [supriya2912biradar@gmail.com](mailto:supriya2912biradar@gmail.com)
-* **LinkedIn:** *(Add LinkedIn URL)*
+* **LinkedIn:** *([Add LinkedIn URL](https://www.linkedin.com/in/supriyabiradar/))*
 
 ---
 
